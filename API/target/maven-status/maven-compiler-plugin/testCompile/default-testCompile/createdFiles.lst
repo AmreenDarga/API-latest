@@ -1,0 +1,7 @@
+com\twitter\API\DisplayName.class
+com\twitter\API\Search2.class
+com\twitter\API\Trends.class
+com\twitter\API\Tweet.class
+com\twitter\API\AllTweets.class
+com\twitter\API\WeatherUpdate.class
+com\twitter\API\BlockUser.class
